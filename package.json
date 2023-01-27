@@ -1,0 +1,26 @@
+{
+  "name": "the-a-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansarraja/the-a-team.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ansarraja/the-a-team/issues"
+  },
+  "homepage": "https://github.com/ansarraja/the-a-team#readme"
+}
