@@ -24,6 +24,8 @@
   ## Usage
   Run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your team members details
   team.html is the output file, which can be open in live server or Browser.
+
+  [Video Demo](assets/my%20team%20profile.webm)
   
   
   
